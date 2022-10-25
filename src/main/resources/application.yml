@@ -1,0 +1,6 @@
+springdoc:
+  swagger-ui:
+    operationsSorter: method
+
+api:
+  version: 1.0
